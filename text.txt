@@ -1,5 +1,9 @@
-123123
+iiiii
+i123123
+ooooop[
+error: pathspec 'hot message' did not match any file(s) known to git
 sada
 asda
-
+我相信我就是
 我是大牛逼
+你是真xsa'
